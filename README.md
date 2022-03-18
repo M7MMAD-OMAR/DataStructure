@@ -1,2 +1,2 @@
-# DataStructure
+# Data Structure
 Training data structure
